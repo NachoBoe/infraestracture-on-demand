@@ -1,0 +1,4 @@
+Number of Agents: 30 
+Number of Experints: 50 
+Time: 10.301519393920898 +- 1.3515440225601196 
+Time per iteration: 1.0301520824432373 +- 0.13515439629554749

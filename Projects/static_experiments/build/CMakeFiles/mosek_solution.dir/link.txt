@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/mosek_solution.dir/experiment.cpp.o  -o mosek_solution  libFusionCXX.a /home/panda/MOSEK/mosek/10.0/tools/platform/linux64x86/bin/libmosek64.so 
